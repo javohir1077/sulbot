@@ -1,5 +1,3 @@
-
-from tkinter import Menu
 from loader import dp
 from aiogram import types
 from aiogram.dispatcher import FSMContext
